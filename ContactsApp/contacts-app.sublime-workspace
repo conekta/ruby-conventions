@@ -1,0 +1,1201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"exis",
+				"existing_bin"
+			],
+			[
+				"exi",
+				"existing_bin"
+			],
+			[
+				"csv",
+				"csv_path"
+			],
+			[
+				"error",
+				"error_message"
+			],
+			[
+				"inva",
+				"invalid_path"
+			],
+			[
+				"update",
+				"update_from_binlist"
+			],
+			[
+				"import",
+				"import_error_details"
+			],
+			[
+				"do",
+				"dob\tInsert do |variable| … end"
+			],
+			[
+				"fail",
+				"fail_on_error"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"cla",
+				"cla\tclass .. end"
+			],
+			[
+				"GIT_CHEC",
+				"GIT_CHECKOUT_DEV_CMD"
+			],
+			[
+				"NORMA",
+				"NORMAL_COLOR"
+			],
+			[
+				"cur",
+				"CURRENT_BRANCH"
+			],
+			[
+				"NORMAL",
+				"NORMAL_COLOR"
+			],
+			[
+				"NORM",
+				"NORMAL_TEXT"
+			],
+			[
+				"check",
+				"check_status"
+			],
+			[
+				"CURRE",
+				"CURRENT_BRANCH"
+			],
+			[
+				"inc",
+				"incomplete_data"
+			],
+			[
+				"Card",
+				"CardNumber"
+			],
+			[
+				"voucher",
+				"voucher_card〔variable〕"
+			],
+			[
+				"issuer",
+				"issuer_by_bin"
+			],
+			[
+				"vou",
+				"voucher_card_categories"
+			],
+			[
+				"BONUS_CARD_SURCHARGE_REFUND",
+				"BONUS_CARD_SURCHARGE_REFUND_TAX"
+			],
+			[
+				"card_",
+				"card_number"
+			],
+			[
+				"card",
+				"card_number"
+			],
+			[
+				"get_",
+				"get_bin_number〔function〕"
+			],
+			[
+				"valid",
+				"valid_category〔variable〕"
+			],
+			[
+				"valid_cate",
+				"valid_category"
+			],
+			[
+				"bin",
+				"bin_number"
+			],
+			[
+				"bonus_ca",
+				"bonus_card_categories"
+			],
+			[
+				"bonus_",
+				"bonus_card_categories"
+			],
+			[
+				"PEND",
+				"PENDING_PAYMENT"
+			],
+			[
+				"Charge",
+				"Charge::PAID"
+			],
+			[
+				"with",
+				"with_default_value_of"
+			],
+			[
+				"bonus",
+				"bonus_card_codes"
+			],
+			[
+				"groc",
+				"groceries_cards"
+			],
+			[
+				"bonus_car",
+				"bonus_card_enabled"
+			],
+			[
+				"payment",
+				"payment_method"
+			],
+			[
+				"Application",
+				"ApplicationRecord\t〔Class〕"
+			],
+			[
+				"Active",
+				"ActiveRecord〔namespace〕"
+			],
+			[
+				"Appli",
+				"ApplicationRecord"
+			],
+			[
+				"File",
+				"File\tFile.open(\"..\") { |file| .. }"
+			],
+			[
+				"user",
+				"user_account"
+			],
+			[
+				"new",
+				"new_account_params"
+			],
+			[
+				"response",
+				"response_body"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"last_filter": "git bla",
+		"selected_items":
+		[
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"copy path",
+				"File: Copy Path From Project"
+			],
+			[
+				"remove",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"file new",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"folder",
+				"File: New Folder Relative to Project Root"
+			],
+			[
+				"high",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"file rena",
+				"File: Rename"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"copy ",
+				"File: Copy Path From Project"
+			],
+			[
+				"rem",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"focus",
+				"Focus File on Sidebar"
+			],
+			[
+				"git show",
+				"Git: Show Commit By Hash"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"copypath",
+				"File: Copy Path From Project"
+			],
+			[
+				"pretty",
+				"Pretty Ruby: Format"
+			],
+			[
+				"pretty f",
+				"Pretty Ruby: Format"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"reove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"file ren",
+				"File: Rename"
+			],
+			[
+				"file rename",
+				"File: Rename"
+			],
+			[
+				"new file",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"ssdiff",
+				"Set Syntax: Diff"
+			],
+			[
+				"sstext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"file move",
+				"File: Move"
+			],
+			[
+				"checo",
+				"Git: Checkout Current File"
+			],
+			[
+				"coy pat",
+				"File: Copy Path From Project"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"hig",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"package li",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"package install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package controll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Gustavo/Src/ruby-documentation-standards/ContactsApp"
+	],
+	"file_history":
+	[
+		"/Users/Gustavo/Src/payments-api/spec/factories/voucher_cards.rb",
+		"/Users/Gustavo/Src/payments-api/lib/sandbox_data.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/concerns/charge_operations.rb",
+		"/Users/Gustavo/Src/payments-api/spec/fixtures/bin_csv/invalid_headers.csv",
+		"/Users/Gustavo/Src/payments-api/app/models/bank_name_mapping.rb",
+		"/Users/Gustavo/Documents/Preferences.sublime-settings",
+		"/Users/Gustavo/Src/payments-api/app/models/card_number.rb",
+		"/Users/Gustavo/Src/bash-scripts/squashit",
+		"/Users/Gustavo/Src/payments-api/.env.example",
+		"/Users/Gustavo/Src/payments-api/config/environments/development_environment_variables.yml",
+		"/Users/Gustavo/Src/payments-api/spec/models/voucher_card_spec.rb",
+		"/Users/Gustavo/Src/payments-api/db/migrate/20180213010840_add_incomplete_data_to_card_number.rb",
+		"/Users/Gustavo/Src/payments-api/spec/models/bank_name_mapping_spec.rb",
+		"/Users/Gustavo/Temp/credit_card_paymeny_references.txt",
+		"/Users/Gustavo/Src/payments-api/app/models/company.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/concerns/vertical.rb",
+		"/Users/Gustavo/Src/payments-api/app/sanitizers/base_validator_step.rb",
+		"/Users/Gustavo/Src/payments-api/lib/api_shared/models/company.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/application_record.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/jarvis/card_number_controller.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/charges_controller.rb",
+		"/Users/Gustavo/Documents/test vales.txt",
+		"/Users/Gustavo/Src/payments-api/app/models/payment_source.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/charge.rb",
+		"/Users/Gustavo/Src/payments-api/spec/models/card_number_spec.rb",
+		"/Users/Gustavo/Src/payments-api/Gemfile",
+		"/Users/Gustavo/Src/payments-api/PULL_REQUEST_TEMPLATE.md",
+		"/Users/Gustavo/Src/payments-api/app/controllers/companies_controller.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/voucher_card.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/capture_fees.rb",
+		"/Users/Gustavo/Src/payments-api/app/validators/voucher_card_categories_validator.rb",
+		"/Users/Gustavo/Src/payments-api/app/views/0.3.0/companies/show.json.rabl",
+		"/Users/Gustavo/Src/payments-api/lib/token_test_factory.rb",
+		"/Users/Gustavo/Src/payments-api/config/locales/es.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/defaults/es.yml",
+		"/Users/Gustavo/Src/payments-api/config/application.rb",
+		"/Users/Gustavo/Src/payments-api/spec/spec_helper.rb",
+		"/Users/Gustavo/Src/payments-api/config/mongoid.yml",
+		"/Users/Gustavo/Src/payments-api/spec/controllers/companies/companies_controller_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/models/charge_spec.rb",
+		"/Users/Gustavo/Src/payments-api/db/migrate/20180210010644_add_source_to_card_number.rb",
+		"/Users/Gustavo/Src/payments-api/spec/controllers/payees/payees_controller_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/factories.rb",
+		"/Users/Gustavo/Src/payments-api/spec/models/company_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/support/shared_declarations.rb",
+		"/Users/Gustavo/Src/payments-api/spec/views/1.0.0/companies/companies_view_spec.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/transaction.rb",
+		"/Users/Gustavo/Src/payments-api/app/workers/balance_update_worker.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/event.rb",
+		"/Users/Gustavo/Src/payments-api/payments-api.sublime-project",
+		"/Users/Gustavo/Src/payments-api/lib/tasks/yard.rake",
+		"/Users/Gustavo/Downloads/0001-f-PAYMENTS-86-Calculo-de-sobretasas-para-vales-1445.patch",
+		"/Users/Gustavo/Src/payments-api/app/models/incoming_deposit.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/token.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/orders_controller.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/chargeback.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/fee_detail.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/payment_method.rb",
+		"/Users/Gustavo/Src/payments-api/spec/controllers/charges/charges_controller_spec.rb",
+		"/Users/Gustavo/Src/payments-api/config/locales/en.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/helpers/charge_operations/en.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/helpers/charge_operations/es.yml",
+		"/Users/Gustavo/Src/payments-api/app/models/credit_card_payment.rb",
+		"/Users/Gustavo/bin/squashit.sh",
+		"/Users/Gustavo/Src/payments-api/app/models/concerns/card_validations.rb",
+		"/Users/Gustavo/Documents/PAYMENTS-103-calcular-sobretasas.diff",
+		"/Users/Gustavo/Src/payments-api/.gitignore",
+		"/Users/Gustavo/Src/payments-api/app/models/order.rb",
+		"/Users/Gustavo/Documents/Vales (pago sin categoria).json",
+		"/Users/Gustavo/Documents/Vales (pago con categoria).json",
+		"/Users/Gustavo/Src/payments-api/app/workers/card_number_generator_worker.rb",
+		"/Users/Gustavo/Src/payments-api/spec/workers/factura_worker_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/helpers/facturas_spec_helper.rb",
+		"/Users/Gustavo/Src/payments-api/app/workers/factura_worker.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/receipt.rb",
+		"/Users/Gustavo/Src/payments-api/config/environments/test_environment_variables.yml",
+		"/Users/Gustavo/Src/payments-api/app/models/processing_engine_provider.rb",
+		"/Users/Gustavo/Documents/PAYMENTS-112 debug with changes.txt",
+		"/Users/Gustavo/Src/payments-api/spec/models/processing_engine_provider_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/lib/sandbox_data_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/payments/providers/prosa_spec.rb",
+		"/Users/Gustavo/Src/payments-api/app/payments/providers/prosa.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/card.rb",
+		"/Users/Gustavo/Documents/Respuestas Valeras/pagaflex-gus.json",
+		"/Users/Gustavo/Documents/Respuestas Valeras/sivale-conekta.json",
+		"/Users/Gustavo/Documents/Respuestas Valeras/bancomer-gus.json",
+		"/Users/Gustavo/Src/payments-api/spec/workers/card_number_generator_worker_spec.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/submodels_controller.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/customers_controllers/cards_controller.rb",
+		"/Users/Gustavo/Documents/PAYMENTS-112 debug no changes.txt",
+		"/Users/Gustavo/Src/payments-api/app/models/company_info.rb",
+		"/Users/Gustavo/Src/payments-api/lib/model_helpers.rb",
+		"/Users/Gustavo/Src/payments-api/app/helpers/charge_helper.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/payment_source_cards.rb",
+		"/Users/Gustavo/Src/payments-api/lib/payment_vault_interface.rb",
+		"/Users/Gustavo/Src/payments-api/spec/support/I18n.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/concerns/rescuers_from.rb",
+		"/Users/Gustavo/Src/payments-api/spec/fixtures/voucher_cards.rb",
+		"/Users/Gustavo/Temp/unblockus-vpn.txt",
+		"/Users/Gustavo/Temp/uu-config.ovpn",
+		"/Users/Gustavo/Temp/unblockus.ovpn",
+		"/Users/Gustavo/Src/payments-api/config/locales/models/voucher_card/en.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/models/voucher_card/es.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/models/es.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/defaults/errors.yml",
+		"/Users/Gustavo/Src/payments-api/config/locales/es",
+		"/Users/Gustavo/Src/payments-api/app/models/details.rb",
+		"/Users/Gustavo/Src/payments-api/app/helpers/bonus_card_helper.rb",
+		"/Users/Gustavo/Src/payments-api/app/views/0.1.0/errors/show.json.rabl",
+		"/Users/Gustavo/Src/payments-api/app/validators/bonus_card_category_validator.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/customer.rb",
+		"/Users/Gustavo/Temp/PAYMENTS-86.txt",
+		"/Users/Gustavo/Src/payments-api/spec/controllers/chargebacks/chargebacks_controller_spec.rb",
+		"/Users/Gustavo/Src/payments-api/app/helpers/company_validator_helper.rb",
+		"/Users/Gustavo/Src/payments-api/spec/views/2.0.0/orders/charges_controller_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/models/bonus_card_spec.rb",
+		"/Users/Gustavo/Src/payments-api/spec/factories/bonus_cards.rb",
+		"/Users/Gustavo/Src/payments-api/app/models/bonus_card.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/resources_controller.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/application_controller.rb",
+		"/Users/Gustavo/Src/payments-api/spec/support/errors_helpers.rb",
+		"/Users/Gustavo/Src/payments-api/lib/params_utf_scrubber.rb",
+		"/Users/Gustavo/Src/payments-api/app/helpers/bbva_helper.rb",
+		"/Users/Gustavo/Src/payments-api/app/controllers/concerns/indexable.rb",
+		"/Users/Gustavo/Src/payments-api/app/helpers/charge_params_validator_helper.rb",
+		"/Users/Gustavo/Temp/happy path charge.txt",
+		"/Users/Gustavo/Src/payments-api/app/helpers/charge_params_mapper_helper.rb",
+		"/Users/Gustavo/Src/payments-api/happy path.txt"
+	],
+	"find":
+	{
+		"height": 50.0
+	},
+	"find_in_files":
+	{
+		"height": 166.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 182.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contacts-app.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"charge",
+				"app/models/charge.rb"
+			],
+			[
+				"trans",
+				"app/models/transaction.rb"
+			],
+			[
+				"charge.rb",
+				"app/models/charge.rb"
+			],
+			[
+				"chargeope",
+				"app/models/concerns/charge_operations.rb"
+			],
+			[
+				"chargescontrollerspec",
+				"spec/controllers/charges/charges_controller_spec.rb"
+			],
+			[
+				"card",
+				"app/models/card.rb"
+			],
+			[
+				"cardvali",
+				"app/models/concerns/card_validations.rb"
+			],
+			[
+				"cardva",
+				"app/models/concerns/card_validations.rb"
+			],
+			[
+				"vouchercards",
+				"spec/factories/voucher_cards.rb"
+			],
+			[
+				"sand",
+				"lib/sandbox_data.rb"
+			],
+			[
+				"token",
+				"app/models/token.rb"
+			],
+			[
+				"chargescontr",
+				"app/controllers/charges_controller.rb"
+			],
+			[
+				"sandb",
+				"lib/sandbox_data.rb"
+			],
+			[
+				"toke",
+				"app/models/token.rb"
+			],
+			[
+				"chargescontroller",
+				"app/controllers/charges_controller.rb"
+			],
+			[
+				"orderscontroller",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"chargescon",
+				"app/controllers/orders_controllers/charges_controller.rb"
+			],
+			[
+				"cardnu",
+				"app/models/card_number.rb"
+			],
+			[
+				"cardnum",
+				"app/workers/card_number_generator_worker.rb"
+			],
+			[
+				"voucher",
+				"app/models/voucher_card.rb"
+			],
+			[
+				"addinit",
+				"db/migrate/20180221042048_add_initial_voucher_card_categories.rb"
+			],
+			[
+				"import",
+				"app/services/ImportBINFromCSVService.rb"
+			],
+			[
+				"chang",
+				"# changes"
+			],
+			[
+				"generic",
+				"spec/support/shared_examples/generic_service_example.rb"
+			],
+			[
+				"banknamema",
+				"spec/models/bank_name_mapping_spec.rb"
+			],
+			[
+				"chan",
+				"# changes"
+			],
+			[
+				"cardnumberspe",
+				"spec/models/card_number_spec.rb"
+			],
+			[
+				"cardnumbers",
+				"spec/models/card_number_spec.rb"
+			],
+			[
+				"bankname",
+				"spec/models/bank_name_mapping_spec.rb"
+			],
+			[
+				"bankna",
+				"app/models/bank_name_mapping.rb"
+			],
+			[
+				"cardnumber",
+				"app/workers/card_number_generator_worker.rb"
+			],
+			[
+				"impor",
+				"app/services/ImportBINFromCSVService.rb"
+			],
+			[
+				".env.exa",
+				".env.example"
+			],
+			[
+				".env.test",
+				".env.test"
+			],
+			[
+				".env.",
+				".env.development"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"scripts/application-start.sh",
+				"scripts/application-start.sh"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				".env",
+				".env.example"
+			],
+			[
+				"test",
+				"config/environments/test_environment_variables.yml"
+			],
+			[
+				"devel",
+				"config/environments/development_environment_variables.yml"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"application.rb",
+				"config/application.rb"
+			],
+			[
+				"bnkname",
+				"spec/models/bank_name_mapping_spec.rb"
+			],
+			[
+				"vouchercardsp",
+				"spec/models/voucher_card_spec.rb"
+			],
+			[
+				"factories.rb",
+				"spec/factories.rb"
+			],
+			[
+				"spec/fact",
+				"spec/factories.rb"
+			],
+			[
+				"add",
+				"db/migrate/20180213010840_add_incomplete_data_to_card_number.rb"
+			],
+			[
+				"addinc",
+				"db/migrate/20180213010840_add_incomplete_data_to_card_number.rb"
+			],
+			[
+				"addin",
+				"db/migrate/20180213010840_add_incomplete_data_to_card_number.rb"
+			],
+			[
+				"app/models/card_number.rb",
+				"app/models/card_number.rb"
+			],
+			[
+				"db/migrate/20180213010840_add_incomplete_data_to_card_number.rb",
+				"db/migrate/20180213010840_add_incomplete_data_to_card_number.rb"
+			],
+			[
+				"creditc",
+				"app/models/credit_card_payment.rb"
+			],
+			[
+				"spec/factories.rb",
+				"spec/factories.rb"
+			],
+			[
+				"spec/models/card_number_spec.rb",
+				"spec/models/card_number_spec.rb"
+			],
+			[
+				"credit",
+				"app/models/credit_card_payment.rb"
+			],
+			[
+				"db/migrate/20180210010644_add_source_to_card_number.rb",
+				"db/migrate/20180210010644_add_source_to_card_number.rb"
+			],
+			[
+				"app/models/concerns/card_validations.rb",
+				"app/models/concerns/card_validations.rb"
+			],
+			[
+				"transa",
+				"app/models/transaction.rb"
+			],
+			[
+				"spec/controllers/charges/charges_controller_spec.rb",
+				"spec/controllers/charges/charges_controller_spec.rb"
+			],
+			[
+				"app/workers/card_number_generator_worker.rb",
+				"app/workers/card_number_generator_worker.rb"
+			],
+			[
+				"cardnumberse",
+				"spec/models/card_number_spec.rb"
+			],
+			[
+				"spec/workers/card_number_generator_worker_spec.rb",
+				"spec/workers/card_number_generator_worker_spec.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"pull",
+				"PULL_REQUEST_TEMPLATE.md"
+			],
+			[
+				"changes",
+				"# changes"
+			],
+			[
+				"change",
+				"# changes"
+			],
+			[
+				"cardnuer",
+				"app/models/card_number.rb"
+			],
+			[
+				"cardnumberspec",
+				"spec/models/card_number_spec.rb"
+			],
+			[
+				"cardnumbersp",
+				"spec/models/card_number_spec.rb"
+			],
+			[
+				"spec/fac",
+				"spec/factories.rb"
+			],
+			[
+				"creditca",
+				"app/models/credit_card_payment.rb"
+			],
+			[
+				"card_nu",
+				"app/models/card_number.rb"
+			],
+			[
+				"factura",
+				"app/workers/factura_worker.rb"
+			],
+			[
+				"addsou",
+				"db/migrate/20180210010644_add_source_to_card_number.rb"
+			],
+			[
+				"tran",
+				"app/models/transaction.rb"
+			],
+			[
+				"spec/workers/factura_worker_spec.rb",
+				"spec/workers/factura_worker_spec.rb"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"cardnumbergene",
+				"spec/workers/card_number_generator_worker_spec.rb"
+			],
+			[
+				"sandbox",
+				"lib/sandbox_data.rb"
+			],
+			[
+				"creditcard",
+				"app/models/credit_card_payment.rb"
+			],
+			[
+				"cardnumb",
+				"app/workers/card_number_generator_worker.rb"
+			],
+			[
+				"payment",
+				"app/models/payment_method.rb"
+			],
+			[
+				"paymentsource",
+				"app/models/payment_source.rb"
+			],
+			[
+				"chargescontrol",
+				"app/controllers/charges_controller.rb"
+			],
+			[
+				"cardnumbergee",
+				"spec/workers/card_number_generator_worker_spec.rb"
+			],
+			[
+				"processingengine",
+				"spec/models/processing_engine_provider_spec.rb"
+			],
+			[
+				"spec/models/processing_engine_provider_spec.rb",
+				"spec/models/processing_engine_provider_spec.rb"
+			],
+			[
+				"mongoi",
+				"config/mongoid.yml"
+			],
+			[
+				"spec_h",
+				"spec/spec_helper.rb"
+			],
+			[
+				"applicat",
+				"config/application.rb"
+			],
+			[
+				"cardnumbergener",
+				"spec/workers/card_number_generator_worker_spec.rb"
+			],
+			[
+				"processingen",
+				"spec/models/processing_engine_provider_spec.rb"
+			],
+			[
+				"payments-112",
+				"~/Documents/PAYMENTS-112 debug no changes.txt"
+			],
+			[
+				"factori",
+				"spec/factories.rb"
+			],
+			[
+				"chargeopera",
+				"app/models/concerns/charge_operations.rb"
+			],
+			[
+				"factories",
+				"spec/factories.rb"
+			],
+			[
+				"processor",
+				"spec/models/processing_engine_provider_spec.rb"
+			],
+			[
+				"",
+				"app/workers/card_number_generator_worker.rb"
+			],
+			[
+				"spec/fa",
+				"spec/factories.rb"
+			],
+			[
+				"processing_engine_provider_spec.rb",
+				"spec/models/processing_engine_provider_spec.rb"
+			],
+			[
+				"cardnumbergenera",
+				"spec/workers/card_number_generator_worker_spec.rb"
+			],
+			[
+				"cardscontr",
+				"app/controllers/customers_controllers/cards_controller.rb"
+			],
+			[
+				"submodels",
+				"app/controllers/submodels_controller.rb"
+			],
+			[
+				"cardnumberge",
+				"app/workers/card_number_generator_worker.rb"
+			],
+			[
+				"orderscon",
+				"app/controllers/orders_controller.rb"
+			],
+			[
+				"spec/payments/providers/prosa_spec.rb",
+				"spec/payments/providers/prosa_spec.rb"
+			],
+			[
+				"tokentest",
+				"lib/token_test_factory.rb"
+			],
+			[
+				"san",
+				"lib/sandbox_data.rb"
+			],
+			[
+				"paymentmethod",
+				"app/models/payment_method.rb"
+			],
+			[
+				"chargescontro",
+				"app/controllers/charges_controller.rb"
+			],
+			[
+				"voucherc",
+				"app/models/voucher_card.rb"
+			],
+			[
+				"transact",
+				"app/models/transaction.rb"
+			],
+			[
+				"vouchercardspec",
+				"spec/models/voucher_card_spec.rb"
+			],
+			[
+				"vouchercard",
+				"app/models/voucher_card.rb"
+			],
+			[
+				"voucherca",
+				"spec/factories/voucher_cards.rb"
+			],
+			[
+				"vouchercard.rb",
+				"app/models/voucher_card.rb"
+			],
+			[
+				"spec/controllers/companies/companies_controller_spec.rb",
+				"spec/controllers/companies/companies_controller_spec.rb"
+			],
+			[
+				"vouchercardca",
+				"app/validators/voucher_card_categories_validator.rb"
+			],
+			[
+				"app/models/concerns/charge_operations.rb",
+				"app/models/concerns/charge_operations.rb"
+			],
+			[
+				"capturefees",
+				"app/models/capture_fees.rb"
+			],
+			[
+				"card_number",
+				"app/models/card_number.rb"
+			],
+			[
+				"transaction.rb",
+				"app/models/transaction.rb"
+			],
+			[
+				"chargeop",
+				"app/models/concerns/charge_operations.rb"
+			],
+			[
+				"vales",
+				"~/Documents/test vales.txt"
+			],
+			[
+				"chargescontrolerspec",
+				"spec/controllers/charges/charges_controller_spec.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,42 @@
+source 'https://rubygems.org'
+ruby '~> 2.3.0'
+
+# we load dotenv before anything else in case any of the gems we use (our own or
+# 3rd party) require ENV vars for configuring themselves
+group :development, :test do
+  gem 'dotenv-rails', require: 'dotenv/rails-now'
+  gem 'byebug'
+  gem 'awesome_print'
+end
+
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+gem 'rails', '4.1.9'
+
+# database stuff
+gem 'mongoid', "~> 5.2.0"
+gem 'bson'
+gem 'mongoid_rails_migrations'
+gem 'mongoid_enum'
+
+# Use jquery as the JavaScript library
+gem 'jquery-rails'
+# Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+gem 'jbuilder', '~> 2.0'
+# bundle exec rake doc:rails generates the API under doc/api.
+gem 'sdoc', '~> 0.4.0',          group: :doc
+
+# Use ActiveModel has_secure_password
+gem 'bcrypt', '~> 3.1.7'
+
+# Documentation
+gem 'yard'
+
+# Test gems
+group :test do
+  gem 'database_cleaner'
+  gem 'factory_girl'
+  gem 'rspec-rails'
+  gem 'faker'
+  gem 'mongoid-rspec', '>= 3.0'
+end
+

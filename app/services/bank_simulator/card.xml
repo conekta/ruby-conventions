@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes"?>
+<card>
+	<cardHolder></cardHolder>
+	<number></number>
+	<expirationMonth></expirationMonth>
+	<expirationYear></expirationYear>
+	<csc></csc>
+</card>

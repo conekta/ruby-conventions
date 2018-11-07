@@ -4,7 +4,7 @@ This is a sample application written in ruby on rails to showcase a demo of an e
 
 ## Dependencies
 
-This application uses the usual suspects: ruby, rails and postgres. There are no specific requirements other than running a recent version of ruby, preferably one above 2.1
+This application uses the usual suspects: ruby, rails and postgres. There are no specific requirements other than running a recent version of ruby, preferably one above 2.4
 
 ## Configuration
 
